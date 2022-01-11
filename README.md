@@ -4,6 +4,7 @@ my node
 - k8s
   - [busybox](https://github.com/bobwanglong/node/blob/main/k8s/busybox.MD)
   - [istio基本操作](https://github.com/bobwanglong/node/blob/27162d5749df179aa23b1a1c51f72fd541403e47/k8s/istio/base.md)
+  - [mysql集群搭建](https://github.com/bobwanglong/node/blob/27162d5749df179aa23b1a1c51f72fd541403e47/k8s/helm/mysql集群搭建.md)
 
 - git
   - [cherry-pick](https://github.com/bobwanglong/node/blob/main/git/cherry.MD)
